@@ -34,4 +34,4 @@ Yes — it's free to download and use.
 
 ## A note on usage
 > [!CAUTION]
-> Provided for educational and utility purposes only. Use at your own discretion.  
+> Provided for educational and utility purposes only. Use at your own discretion.   
